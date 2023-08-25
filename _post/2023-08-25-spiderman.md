@@ -17,4 +17,4 @@ date: 2023-08-25
 ### city. Peter Parker originally used his powers for his own personal gain, but after his Uncle Ben was killed by a thief that Peter could not stop, he began 
 ### to use his powers to fight crime by becoming Spider-Man.
 
-![spider-man]([http://url/to/img.png](https://assetsio.reedpopcdn.com/Spider-Banner_AVVWjOb.jpg?width=1600&height=900&fit=crop&quality=100&format=png&enable=upscale&auto=webp)https://assetsio.reedpopcdn.com/Spider-Banner_AVVWjOb.jpg?width=1600&height=900&fit=crop&quality=100&format=png&enable=upscale&auto=webp)
+
